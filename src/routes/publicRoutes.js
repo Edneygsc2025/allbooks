@@ -68,7 +68,7 @@ server.get('/lancamentos', (req, res) => {
             "categoria": 3,
             "titulo": "Bootstrap 4",
             "slug": "bootstrap-4",
-            "descricao": "Conheça a biblioteca front-end mais utilizada no mundo",
+            "descricao": "Conheça a biblioteca front-end mais utilizada no mundo inteiro",
             "isbn": "978-85-94188-60-1",
             "numeroPaginas": 172,
             "publicacao": "2018-05-01",
