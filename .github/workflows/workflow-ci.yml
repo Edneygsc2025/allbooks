@@ -4,10 +4,8 @@
 name: Workflow de Integração Contínua
 
 on:
-  push:
-    branches: [ "main",  "develop"]
   pull_request:
-    branches: [ "main",  "develop"]
+    branches: [ "main"]
 
 jobs:
   continuous-integration:
